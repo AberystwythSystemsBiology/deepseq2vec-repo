@@ -1,0 +1,10 @@
+{
+    "Name": "Testing Classifier",
+    "Description": "A classifier for testing purposes",
+    "ngrams": 3,
+    "Max Length": 500,
+    "Paired": "True",
+    "Sequencing System": "MiSeqv3",
+    "Author Name": "Keiron O'Shea",
+    "Author Email": "keo7@aber.ac.uk"
+}
