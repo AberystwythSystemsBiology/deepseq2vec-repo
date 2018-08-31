@@ -3,6 +3,7 @@
     "Description": "A classifier for testing purposes",
     "ngrams": 3,
     "Max Length": 500,
+    "Gene" : "16S",
     "Paired": "True",
     "Sequencing System": "MiSeqv3",
     "Author Name": "Keiron O'Shea",
