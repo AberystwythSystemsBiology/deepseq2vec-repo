@@ -1,7 +1,7 @@
 {
     "Name": "GreenGenes",
     "Description": "A poorly trained (1 epoch) DLN trained over the GG_13_5 dataset. This is here for local testing purposes and is not indicative of final performance.",
-    "ngrams": 3,
+    "ngrams": 5,
     "Max Length": 550,
     "Gene" : "16S",
     "Paired": "True",
