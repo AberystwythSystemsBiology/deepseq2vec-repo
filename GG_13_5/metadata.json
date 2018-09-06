@@ -1,0 +1,14 @@
+{
+    "Name": "GreenGenes",
+    "Description": "A poorly trained (1 epoch) DLN trained over the GG_13_5 dataset. This is here for local testing purposes and is not indicative of final performance.",
+    "ngrams": 3,
+    "Max Length": 550,
+    "Gene" : "16S",
+    "Paired": "True",
+    "Project Homepage" : "https://www.github.com/KeironO/",
+    "Training Data URL" : "#",
+    "Sequencing System": "MiSeqv3",
+    "Institution" : "Aberystwyth Unviersity",
+    "Author Name": "Keiron O'Shea",
+    "Author Email": "keo7@aber.ac.uk"
+}
