@@ -1,6 +1,6 @@
 {
-    "Name": "Testing Classifier",
-    "Description": "A classifier for testing purposes",
+    "Name": "33175[BioProject]",
+    "Description": "A poorly trained (1 epoch) DLN trained over the 331575[BioProject].",
     "ngrams": 3,
     "Max Length": 500,
     "Gene" : "16S",
