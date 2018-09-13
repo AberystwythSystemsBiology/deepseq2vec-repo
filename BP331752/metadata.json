@@ -2,7 +2,7 @@
     "Name": "33175[BioProject]",
     "Description": "A poorly trained (1 epoch) DLN trained over the 331575[BioProject]. This is here for local testing purposes and is not indicative of final performance.",
     "ngrams": 3,
-    "Max Length": 500,
+    "Max Length": 550,
     "Gene" : "16S",
     "Paired": "True",
     "Project Homepage" : "https://www.github.com/KeironO/",
